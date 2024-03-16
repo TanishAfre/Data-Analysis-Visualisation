@@ -1,4 +1,21 @@
+Database name: World Happiness Report 2023      Database Link: https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2023?resource=download
+
+|_____________________________________________________________________________________|
+|****************************Theoretical Framework************************************|
+|_____________________________________________________________________________________|
+
 Global Relevance: The World Happiness Report serves as a propper review which reflects the state of global happiness,
-     shedding light on how different nations prioritize the well-being of their citizens.
+     shedding light on how different nations prioritize the well-being of their citizens. 
+
+Multidimensional Approach: This report encompasses a variety of indicators, including economic wealth (GDP per capita),
+     social support, life expectancy, freedom to make life choices, generosity, and perceptions of corruption, 
+     offering a holistic view of happiness and well-being.
+
+Public Interest and Awareness: it highlights public awareness regarding the factors that contribute to happiness, 
+     promoting a better understanding of how societal values and policies align with individual well-being.
+     
+As mentioned in the project specification document, this database fits perfectly in all the criterias.
+
+
 
 
