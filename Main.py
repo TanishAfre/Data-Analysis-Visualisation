@@ -12,3 +12,6 @@ data = pd.read_csv("C:\\Users\\tanis\\Data-Analysis-Visualisation\\WHR2023.csv")
 
 df = pd.read_csv("C:\\Users\\tanis\\Data-Analysis-Visualisation\\WHR2023.csv")
 
+# Display the first 5 rows of the data
+print(df.head(5))
+
