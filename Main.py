@@ -22,3 +22,22 @@ df.info()
 print(df.isnull().sum())
 # found Healthy life expectancy and explained by: Healthy life expectancy and dystopia residual have missing values 
 
+# function for adding mean values to the missing values
+def nan_values(data):
+    null_values = {}
+    for col in data:
+        null_values[col] = ((data[col].isnull().sum()) / len(data)) * 100
+    return null_values
+
+null_values = nan_values(df)
+for col, nulls in null_values.items():
+    print(f"{col}  :  {nulls.round(2)} %")
+
+def unique_len(data):
+    list_unique = {}
+    for col in data:
+        list_unique[col] = len(data[col].unique())
+    for i, j in list_unique.items():
+        print(f"{i} : {j}")
+
+unique_len(df)
