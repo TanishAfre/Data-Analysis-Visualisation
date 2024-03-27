@@ -18,4 +18,7 @@ print(df.head(5))
 # checking the data types of the columns.
 df.info()
 
+# checking for missing values
+print(df.isnull().sum())
+# found Healthy life expectancy and explained by: Healthy life expectancy and dystopia residual have missing values 
 
