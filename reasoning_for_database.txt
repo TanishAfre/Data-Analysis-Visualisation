@@ -60,3 +60,16 @@ improvements should invite personalized metrics that mirror individual experienc
 cultures in order to understand global happiness at much deeper levels.
 
 
+|_____________________________________________________________________________________|
+|*************************Limitations and Future Research*****************************|
+|_____________________________________________________________________________________|
+
+However, it should be understood that, while constructing a composite index out of the World Happiness Report, one is prone 
+to cultural bias in self-reported happiness, different effects of the surveyed factors between societies, and 
+impossibilities to measure the whole scope of determinants for a happy life. Additionally, temporal changes and 
+externalities affecting happiness may not be fully accounted for. Future researchers may expand more on the qualitative 
+aspects of well-being and go deeper into the mental health role through considering longitudinal studies that can provide 
+more explanations for changes in happiness over time within the same population cohorts.
+
+
+
