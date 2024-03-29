@@ -17,5 +17,36 @@ Public Interest and Awareness: it highlights public awareness regarding the fact
 As mentioned in the project specification document, this database fits perfectly in all the criterias.
 
 
+|_____________________________________________________________________________________|
+|***********************Identify the Problem and Justification************************|
+|_____________________________________________________________________________________|
+
+It remains one of the most central goals belonging to being human—the pursuit of happiness—and what its 
+constituents are remains a hot issue for all people, particularly for policymakers. Over time, the conventional 
+metrics used include the Gross Domestic Product (GDP) in measuring the success level of countries, and it, however, 
+fails to capture quality of life and well-being among citizens. The World Happiness Report is a valuable database 
+in its assessment, indicating progress in a much more holistic view, since it covers contributing factors to happiness 
+and well-being.
+
+The justification for choosing the World Happiness Report is twofold: One, the report is anchored on a significant 
+empirical study for measuring the happiness of populations around the world. It may be economic wealth, social support, 
+freedom, trust in governance, or longevity. These are the ingredients, which, when mixed together, are somehow trying 
+to describe a more vivid meaning of what makes life worth living. 
+
+The work makes a contribution to an expanded discussion of human development that adds emotional health and satisfaction 
+to the list of "goods" societies should be aiming for. As such, this year's edition provides a more solid and nuanced 
+data set for the World Happiness Report, building an index that should reflect not just the multi-dimensionality of 
+happiness but also possibly help guide policy for better lives for citizens around the world.
+
+|_____________________________________________________________________________________|
+|******************Relevance of the World Happiness Report Data***********************|
+|_____________________________________________________________________________________|
+
+The World Happiness Report is a suitable database to be used in the construction of a composite happiness index, 
+considering that it gives a strong, multifaceted picture of well-being all around the world.  The report's data are 
+collected consistently across countries, enabling comparative analysis. It does reflect the outcomes of national policies 
+and the individual circumstances on perceived life satisfaction and, therefore, is highly useful for representing a 
+tool in the study of the complexities in happiness and its drivers, central to human development and policy making. 
+
 
 
