@@ -1,0 +1,75 @@
+Database name: World Happiness Report 2023      Database Link: https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2023?resource=download
+
+|_____________________________________________________________________________________|
+|****************************Theoretical Framework************************************|
+|_____________________________________________________________________________________|
+
+Global Relevance: The World Happiness Report serves as a propper review which reflects the state of global happiness,
+     shedding light on how different nations prioritize the well-being of their citizens. 
+
+Multidimensional Approach: This report encompasses a variety of indicators, including economic wealth (GDP per capita),
+     social support, life expectancy, freedom to make life choices, generosity, and perceptions of corruption, 
+     offering a holistic view of happiness and well-being.
+
+Public Interest and Awareness: it highlights public awareness regarding the factors that contribute to happiness, 
+     promoting a better understanding of how societal values and policies align with individual well-being.
+     
+As mentioned in the project specification document, this database fits perfectly in all the criterias.
+
+
+|_____________________________________________________________________________________|
+|***********************Identify the Problem and Justification************************|
+|_____________________________________________________________________________________|
+
+It remains one of the most central goals belonging to being human—the pursuit of happiness—and what its 
+constituents are remains a hot issue for all people, particularly for policymakers. Over time, the conventional 
+metrics used include the Gross Domestic Product (GDP) in measuring the success level of countries, and it, however, 
+fails to capture quality of life and well-being among citizens. The World Happiness Report is a valuable database 
+in its assessment, indicating progress in a much more holistic view, since it covers contributing factors to happiness 
+and well-being.
+
+The justification for choosing the World Happiness Report is twofold: One, the report is anchored on a significant 
+empirical study for measuring the happiness of populations around the world. It may be economic wealth, social support, 
+freedom, trust in governance, or longevity. These are the ingredients, which, when mixed together, are somehow trying 
+to describe a more vivid meaning of what makes life worth living. 
+
+The work makes a contribution to an expanded discussion of human development that adds emotional health and satisfaction 
+to the list of "goods" societies should be aiming for. As such, this year's edition provides a more solid and nuanced 
+data set for the World Happiness Report, building an index that should reflect not just the multi-dimensionality of 
+happiness but also possibly help guide policy for better lives for citizens around the world.
+
+|_____________________________________________________________________________________|
+|******************Relevance of the World Happiness Report Data***********************|
+|_____________________________________________________________________________________|
+
+The World Happiness Report is a suitable database to be used in the construction of a composite happiness index, 
+considering that it gives a strong, multifaceted picture of well-being all around the world.  The report's data are 
+collected consistently across countries, enabling comparative analysis. It does reflect the outcomes of national policies 
+and the individual circumstances on perceived life satisfaction and, therefore, is highly useful for representing a 
+tool in the study of the complexities in happiness and its drivers, central to human development and policy making. 
+
+
+|_____________________________________________________________________________________|
+|*************************Addressing Multidimensionality******************************|
+|_____________________________________________________________________________________|
+
+This shows the complexity of happiness in its multidimensional form and the fact that some of its subjective variables, 
+such as emotional well-being and cultural idiosyncrasies, may remain unelaborated. Still, this must be underlined with all 
+due importance to unquantifiable variables that might play a role in influencing happiness. In this regard, future 
+improvements should invite personalized metrics that mirror individual experiences and a wide diversity across different 
+cultures in order to understand global happiness at much deeper levels.
+
+
+|_____________________________________________________________________________________|
+|*************************Limitations and Future Research*****************************|
+|_____________________________________________________________________________________|
+
+However, it should be understood that, while constructing a composite index out of the World Happiness Report, one is prone 
+to cultural bias in self-reported happiness, different effects of the surveyed factors between societies, and 
+impossibilities to measure the whole scope of determinants for a happy life. Additionally, temporal changes and 
+externalities affecting happiness may not be fully accounted for. Future researchers may expand more on the qualitative 
+aspects of well-being and go deeper into the mental health role through considering longitudinal studies that can provide 
+more explanations for changes in happiness over time within the same population cohorts.
+
+
+
